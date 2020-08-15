@@ -1,0 +1,8 @@
+Array
+(
+    [_token] => P03zaM6w3Kganajgc58qCTKRiI0CGD6D4A25eDrZ
+    [type] => sms
+    [send_to] => استاذ المدير الحسابات
+    [from_name] => 1
+    [sms_body] => يوجد مشكلة في الفاتورة رقم 120122100     مش منفذ   الحالة جاري  اي الحل
+)
