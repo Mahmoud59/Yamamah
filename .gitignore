@@ -45,3 +45,4 @@ tmp/
 access-logs/
 app.zip
 www/
+.composer/
